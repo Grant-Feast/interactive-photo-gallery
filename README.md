@@ -1,2 +1,2 @@
 # interactive-photo-gallery
-Treehouse Front End Web Development Tech Degree Project 5
+Interactive photo gallery which allows the user to search through images, hiding those that don't match the search.
